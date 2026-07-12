@@ -6,7 +6,7 @@ I'm passionate about **Computational Fluid Dynamics (CFD)**, **Aerospace Enginee
 
 - ⚛️ Developing **CFD workflows** and **thermal-hydraulic models** in collaboration with the **Indira Gandhi Centre for Atomic Research (IGCAR)**.
 - 🛰️ Contributing to **Team Anant – BITS Pilani Student Satellite Team**, focusing on onboard data system architecture and development.
-- 📐 Interested in **structural analysis**, **mesh optimization**, **computational mechanics**, and **aerospace simulations**.
+- 📐 Working on **structural analysis**, **mesh optimization**, and **computational aerospace simulations**.
 
 ---
 
@@ -27,23 +27,23 @@ I'm passionate about **Computational Fluid Dynamics (CFD)**, **Aerospace Enginee
 <p align="left">
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </a>
 
 </p>
@@ -82,19 +82,17 @@ I'm passionate about **Computational Fluid Dynamics (CFD)**, **Aerospace Enginee
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahaanc29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaanc29&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ahaanc29&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahaanc29&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahaanc29&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -113,5 +111,6 @@ I'm passionate about **Computational Fluid Dynamics (CFD)**, **Aerospace Enginee
 </a>
 
 </p>
+
 
 
