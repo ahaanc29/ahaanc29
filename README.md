@@ -5,7 +5,7 @@
 I'm passionate about **Computational Fluid Dynamics (CFD)**, **Aerospace Engineering**, **Scientific Computing**, and **Numerical Simulations**.
 
 - ⚛️ Developing **CFD workflows** and **thermal-hydraulic models** in collaboration with the **Indira Gandhi Centre for Atomic Research (IGCAR)**.
-- 🛰️ Contributing to **Team Anant – BITS Pilani Student Satellite Team**, focusing on onboard data system architecture and development.
+- 🛰️ Contributing to **Team Anant - BITS Pilani Student Satellite Team**, focusing on **structural** and **thermal** stability of the satellite.
 - 📐 Working on **structural analysis**, **mesh optimization**, and **computational aerospace simulations**.
 
 ---
